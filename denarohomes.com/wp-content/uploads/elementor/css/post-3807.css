@@ -1,0 +1,264 @@
+.elementor-3807 .elementor-element.elementor-element-c3d9d74 {
+    --display: flex;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(5px/2);
+    margin-left: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-5px/2);
+    margin-left: calc(-5px/2);
+}
+
+body.rtl .elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-5px/2);
+}
+
+body:not(.rtl) .elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 {
+    --e-icon-list-icon-size: 24px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-text {
+    color: #222222;
+    transition: color 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(5px/2);
+    margin-left: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-5px/2);
+    margin-left: calc(-5px/2);
+}
+
+body.rtl .elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-5px/2);
+}
+
+body:not(.rtl) .elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 {
+    --e-icon-list-icon-size: 24px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-text {
+    color: #222222;
+    transition: color 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(5px/2);
+    margin-left: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-5px/2);
+    margin-left: calc(-5px/2);
+}
+
+body.rtl .elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-5px/2);
+}
+
+body:not(.rtl) .elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 {
+    --e-icon-list-icon-size: 24px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-text {
+    color: #222222;
+    transition: color 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(5px/2);
+    margin-left: calc(5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-5px/2);
+    margin-left: calc(-5px/2);
+}
+
+body.rtl .elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-5px/2);
+}
+
+body:not(.rtl) .elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-5px/2);
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa {
+    --e-icon-list-icon-size: 24px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-text {
+    color: #222222;
+    transition: color 0.3s;
+}
+
+.elementor-widget .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+@media(max-width:1366px) {
+    .elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-3807 .elementor-element.elementor-element-af62247 .elementor-icon-list-item>a {
+        font-size: 14px;
+    }
+    .elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-3807 .elementor-element.elementor-element-7aa9232 .elementor-icon-list-item>a {
+        font-size: 14px;
+    }
+    .elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-3807 .elementor-element.elementor-element-d23b4c8 .elementor-icon-list-item>a {
+        font-size: 14px;
+    }
+    .elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-3807 .elementor-element.elementor-element-4267daa .elementor-icon-list-item>a {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,180 @@
+.elementor-2674 .elementor-element.elementor-element-afc7265 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 3rem;
+    --padding-bottom: 0rem;
+    --padding-left: 6rem;
+    --padding-right: 6rem;
+}
+
+.elementor-2674 .elementor-element.elementor-element-afc7265:not(.elementor-motion-effects-element-type-background),
+.elementor-2674 .elementor-element.elementor-element-afc7265>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000073;
+}
+
+.elementor-2674 .elementor-element.elementor-element-afc7265,
+.elementor-2674 .elementor-element.elementor-element-afc7265::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2674 .elementor-element.elementor-element-d050091 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 0rem;
+    --padding-bottom: 0rem;
+    --padding-left: 0rem;
+    --padding-right: 5rem;
+}
+
+.elementor-2674 .elementor-element.elementor-element-157d0c4.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-2674 .elementor-element.elementor-element-ca373b4 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3026a83 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 33px;
+    font-weight: 600;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3026a83.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3026a83.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-2674 .elementor-element.elementor-element-807bc72 {
+    text-align: left;
+}
+
+.elementor-2674 .elementor-element.elementor-element-807bc72 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+}
+
+.elementor-2674 .elementor-element.elementor-element-807bc72.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-2674 .elementor-element.elementor-element-807bc72.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3567509 .elementor-button-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3567509 .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    fill: #000073;
+    color: #000073;
+    background-color: #FFFFFF;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 0px 4px 5.3px 0px rgba(0, 0, 0, 0.25098039215686274);
+    padding: 014px 041px 014px 041px;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3567509 .elementor-button:hover,
+.elementor-2674 .elementor-element.elementor-element-3567509 .elementor-button:focus {
+    color: #000073;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3567509 .elementor-button:hover svg,
+.elementor-2674 .elementor-element.elementor-element-3567509 .elementor-button:focus svg {
+    fill: #000073;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3567509>.elementor-widget-container {
+    margin: 15px 0px 0px 0px;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3567509.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-2674 .elementor-element.elementor-element-3567509.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+@media(max-width:1366px) {
+    .elementor-2674 .elementor-element.elementor-element-3026a83 .elementor-heading-title {
+        font-size: 26px;
+    }
+    .elementor-2674 .elementor-element.elementor-element-807bc72 .elementor-heading-title {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .elementor-2674 .elementor-element.elementor-element-3567509 .elementor-button {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:1200px) {
+    .elementor-2674 .elementor-element.elementor-element-d050091 {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-2674 .elementor-element.elementor-element-ca373b4 {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-2674 .elementor-element.elementor-element-3026a83 .elementor-heading-title {
+        font-size: 28px;
+    }
+    .elementor-2674 .elementor-element.elementor-element-807bc72 .elementor-heading-title {
+        font-size: 15px;
+        line-height: 26px;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-2674 .elementor-element.elementor-element-3026a83 .elementor-heading-title {
+        font-size: 24px;
+    }
+    .elementor-2674 .elementor-element.elementor-element-807bc72 .elementor-heading-title {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:880px) {
+    .elementor-2674 .elementor-element.elementor-element-afc7265 {
+        --padding-top: 3rem;
+        --padding-bottom: 0rem;
+        --padding-left: 1rem;
+        --padding-right: 1rem;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-2674 .elementor-element.elementor-element-afc7265 {
+        --padding-top: 3rem;
+        --padding-bottom: 0rem;
+        --padding-left: 2rem;
+        --padding-right: 2rem;
+    }
+    .elementor-2674 .elementor-element.elementor-element-3567509>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+}

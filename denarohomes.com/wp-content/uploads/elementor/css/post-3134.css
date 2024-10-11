@@ -1,0 +1,207 @@
+.elementor-3134 .elementor-element.elementor-element-9c57521 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 10em 10em;
+    --background-transition: 0.3s;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-3134 .elementor-element.elementor-element-6ab9107 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-3134 .elementor-element.elementor-element-cb41b5a {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-3134 .elementor-element.elementor-element-a3921e0>.elementor-widget-container {
+    margin: 0rem 0rem 0rem 0rem;
+}
+
+.elementor-3134 .elementor-element.elementor-element-a3921e0 {
+    width: var( --container-widget-width, 47.274%);
+    max-width: 47.274%;
+    --container-widget-width: 47.274%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-3134 .elementor-element.elementor-element-a3921e0.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-3134 .elementor-element.elementor-element-a3921e0.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-3134 .elementor-element.elementor-element-177aa6f {
+    --display: flex;
+    --min-height: 400px;
+    --background-transition: 0.3s;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.28);
+    --margin-top: -6rem;
+    --margin-bottom: 0rem;
+    --margin-left: 3rem;
+    --margin-right: 0rem;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-3134 .elementor-element.elementor-element-177aa6f:not(.elementor-motion-effects-element-type-background),
+.elementor-3134 .elementor-element.elementor-element-177aa6f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-3134 .elementor-element.elementor-element-177aa6f,
+.elementor-3134 .elementor-element.elementor-element-177aa6f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-3134 .elementor-element.elementor-element-ddb006d .elementor-image-box-wrapper {
+    text-align: center;
+}
+
+.elementor-3134 .elementor-element.elementor-element-ddb006d .elementor-image-box-title {
+    margin-bottom: 18px;
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.elementor-3134 .elementor-element.elementor-element-ddb006d .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 150px;
+}
+
+.elementor-3134 .elementor-element.elementor-element-ddb006d .elementor-image-box-img img {
+    border-style: solid;
+    border-width: 9px 9px 9px 9px;
+    border-color: #ff0000;
+    border-radius: 50%;
+    transition-duration: 0.3s;
+}
+
+.elementor-3134 .elementor-element.elementor-element-ddb006d .elementor-image-box-description {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.elementor-3134 .elementor-element.elementor-element-ddb006d>.elementor-widget-container {
+    padding: 2rem 1rem 2rem 1rem;
+}
+
+.elementor-3134 .elementor-element.elementor-element-ddb006d.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+@media(max-width:767px) {
+    .elementor-3134 .elementor-element.elementor-element-9c57521 {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-3134 .elementor-element.elementor-element-177aa6f {
+        --width: 100%;
+        --min-height: 500px;
+        --border-radius: 10px 10px 10px 10px;
+        --margin-top: 0rem;
+        --margin-bottom: 0rem;
+        --margin-left: 0rem;
+        --margin-right: 0rem;
+        --padding-top: 15px;
+        --padding-bottom: 15px;
+        --padding-left: 15px;
+        --padding-right: 15px;
+    }
+    .elementor-3134 .elementor-element.elementor-element-ddb006d .elementor-image-box-description {
+        font-size: 14px;
+    }
+    .elementor-3134 .elementor-element.elementor-element-ddb006d>.elementor-widget-container {
+        padding: 0rem 0rem 0rem 0rem;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-3134 .elementor-element.elementor-element-9c57521 {
+        --width: 100%;
+    }
+}
+
+/* Start custom CSS for image-box, class: .elementor-element-ddb006d */
+
+.title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.test-box {
+    figure {
+        /*margin-top: ;*/
+        img {
+            width: 150px;
+            height: 150px;
+            margin-left: 10rem;
+            margin-top: -7rem;
+        }
+        @media (max-width:1408px) {
+            margin-left: -10rem !important;
+        }
+    }
+}
+
+@media (max-width:1408px) {
+    .test-box {
+        figure {
+            img {
+                margin-left: 01rem !important;
+                margin-top: 0 !important;
+            }
+        }
+    }
+}
+
+.test-bo {
+    figure {
+        img {
+            height: 150px;
+        }
+    }
+}
+
+/* End custom CSS */
